@@ -1,0 +1,201 @@
+Province,Gender,Language,Height,Arm.Span,Foot.Size,Wrist.Bone,Wrist.Circum,Handedness,Grain,Milk,Vegetable,Meat,Other.Food,Breakfast,Physical,Physical.Days,Smoke,Favourite.Subject,Pressure,Travel,Travel.Minutes,Bullied,Communication,Reducing.Pollution,Recycling.Rubbish,Conserving.Water,Conserving.Energy,Owning.Computer,Internet.Access,Charity,Admire,Household,Metals,Plastic,Paper,Composting,Lightbulbs,Water,Memory.Game,Age,Right.time
+Ont,M,1,168,157,26,26,120,Right,Y,Y,N,N,N,N,Football/Soccer,4,0,physical education,some,Walk,5,trying to ,TXT,428,807,930,743,1000,1000,International aid,Sportsperson,5,Y,Y,Y,Y,Y,Tap water,33,14,0.343
+Ont,F,2,163,164,26,27,160,Right,N,N,N,Y,N,N,Swimming,0,0,math,a lot,Walk,5,insecure,TXT,930,920,936,102,43,48,Health,Musician or singer,3,Y,Y,N,N,N,Tap water,51,17,0.281
+Ont,F,4,163,156,22,27,140,Right,Y,Y,N,Y,N,N,Dancing,3,0,math,a lot,Other,50,insecure,TXT,128,193,385,471,1000,1000,Wildlife  animals,Relative,4,N,Y,Y,N,Y,Bottled wa,35,17,0.374
+Alta,F,1,173,167,25,25,150,Right,N,Y,Y,N,N,N,Dancing,4,0,music,some,Walk,2,family pro,Cell phone,834,909,663,599,176,326,OTH,Friend,3,Y,Y,Y,N,DNK,OTH,37,14,0.72
+Ont,F,3,158,158,24,24,140,Right,Y,N,N,N,N,N,Cycling,1,0,math,a lot,Bus,10,angry,TXT,877,861,775,824,1000,1000,Wildlife  animals,Musician or singer,6,Y,Y,Y,Y,Y,OTH,37,18,0.321
+Ont,M,3,175,181,26,30,180,Right,N,N,Y,N,N,N,Martial arts,6,35,math,a lot,Walk,15,just looki,TXT,267,70,765,936,947,1000,International aid,Friend,5,Y,Y,Y,Y,Y,Bottled wa,40,18,0.333
+Ont,M,2,178,154,26,26,170,Left,N,N,Y,N,N,N,Hockey (Ice),5,0,English,some,Cycle,10,angry,TXT,599,487,738,936,1000,1000,International aid,Teacher,2,N,N,N,N,N,Tap water,47,16,0.238
+Man,M,1,167,168,26,27,175,Right,Y,Y,N,N,N,N,Hockey (Ice),5,0,physical education,some,Bus,30,insecure,In person,230,321,829,182,118,53,Education or Youth development,Sportsperson,5,DNK,Y,Y,DNK,DNK,Tap water,51,14,0.235
+Ont,M,1,184,178,30,32,180,Left,Y,Y,Y,Y,N,N,Other activities/sports,4,0,music,a lot,Car,5,family pro,TXT,1000,1000,984,898,749,690,Arts  culture  sports,Musician or singer,6,Y,Y,Y,N,Y,OTH,42,14,0.297
+Ont,F,1,150,120,27,27,140,Right,Y,N,N,Y,Y,N,Swimming,2,0,other,some,Car,5,trying to ,TXT,1000,1000,1000,1000,594,791,Health,Actor,4,DNK,Y,Y,Y,DNK,Bottled wa,59,14,0.516
+Alta,M,2,176,185,28,28,160,Right,Y,Y,N,Y,N,N,Basketball,5,0,science,very little,Bus,25,family pro,In person,535,444,380,476,503,791,International aid,Sportsperson,4,DNK,Y,Y,DNK,Y,Tap water,38,14,0.391
+Que,M,1,170,170,25,28,190,Right,N,N,N,N,N,Y,Hockey (Ice),0,0,other,none,Bus,25,trying to ,Myspace  Facebook  blogs,1000,1000,1000,1000,1000,1000,International aid,Friend,5,Y,Y,Y,N,N,Bottled wa,48,14,0.265
+Ont,M,2,167,156,26,28,165,Right,Y,Y,N,Y,N,N,Football/Soccer,2,0,physical education,some,Car,15,trying to ,Cell phone,123,262,262,439,824,930,Environment,Sportsperson,3,Y,Y,Y,N,Y,OTH,58,14,0.266
+Sask,F,1,162,160,22,27,155,Right,N,N,N,N,N,Y,Athletics,5,0,English,none,Bus,45,trying to ,TXT,957,952,765,508,674,572,Wildlife  animals,Relative,3,Y,Y,Y,DNK,Y,OTH,62,14,0.295
+Ont,M,2,176,175,30,30,190,Right,Y,N,N,N,N,N,Golf,0,0,computers,a lot,Car,8,trying to ,In person,620,620,797,433,663,540,Health,Teacher,6,Y,Y,Y,N,Y,Tap water,28,17,0.375
+Alta,F,1,166,159,21,18,150,Right,Y,Y,N,N,N,N,Basketball,3,0,social studies,a lot,Walk,15,trying to ,TXT,888,930,1000,930,460,615,Environment,Other,4,Y,Y,Y,N,Y,Tap water,32,14,0.328
+Sask,F,2,177,176,25,25,200,Right,Y,Y,Y,N,N,N,Other activities/sports,4,0,physical education,a lot,Car,6,trying to ,In person,422,246,406,492,455,898,Environment,Relative,3,N,Y,N,N,Y,OTH,37,14,0.424
+Que,F,2,155,137,18,19,130,Right,N,N,N,N,N,Y,Basketball,0,0,physical education,a lot,Walk,7,angry,TXT,1000,1000,1000,316,1000,1000,Health,Friend,4,N,N,N,N,Y,Tap water,48,14,0.359
+Ont,M,1,173,179,26,27,180,Right,Y,Y,Y,Y,N,N,Baseball/Softball,4,0,physical education,some,Car,5,trying to ,TXT,160,144,16,513,1000,1000,Health,Musician or singer,4,Y,Y,Y,DNK,DNK,Bottled wa,35,17,0.344
+Alta,F,1,166,173,24,27,116,Right,Y,Y,N,Y,N,N,Swimming,7,0,other,very little,Bus,30,trying to ,In person,717,749,1000,936,70,150,International aid,Friend,6,Y,Y,Y,N,Y,OTH,38,14,0.46
+Que,F,2,162,167,23,25,140,Left,Y,Y,Y,N,N,N,Swimming,2,0,French,very little,Bus,30,insecure,Myspace  Facebook  blogs,604,674,642,497,96,86,Education or Youth development,Relative,5,Y,Y,Y,Y,DNK,Tap water,39,14,0.392
+Alta,M,1,166,169,30,28,142,Right,N,N,N,N,N,Y,Other activities/sports,1,0,physical education,very little,Walk,1,trying to ,In person,535,588,176,342,96,257,Health,Relative,4,Y,Y,Y,DNK,DNK,Tap water,33,13,0.336
+Que,M,2,181,180,28,28,180,Right,Y,Y,N,Y,Y,N,Hockey (Ice),3,67,physical education,very little,Skateboard/Scooter/Rollerblade,13,trying to ,In person,561,824,380,251,59,59,International aid,Musician or singer,5,N,Y,DNK,N,Y,Bottled wa,44,15,0.282
+Man,M,1,211,211,31,26,180,Right,N,N,N,N,N,Y,None,7,0,other,very little,Rail (Train  Tram  Subway),15,family pro,In person,1000,1000,1000,1000,1000,1000,OTH,Doctor or nurse,4,DNK,DNK,DNK,Y,Y,OTH,62,14,0.384
+Ont,M,2,181,180,29,26,170,Right,N,N,N,Y,N,N,Football/Soccer,3,0,geography,some,Walk,2,family pro,TXT,727,417,369,556,310,524,International aid,Politician,2,N,N,N,N,N,Bottled wa,41,18,0.673
+Ont,M,2,180,177,28,29,170,Right,Y,Y,N,Y,Y,N,Table Tennis,1,0,music,very little,Car,5,trying to ,Cell phone,155,503,406,775,888,947,Environment,Relative,5,N,DNK,DNK,N,Y,Tap water,59,14,0.219
+Ont,F,6,164,164,25,25,102,Right,Y,N,N,N,N,N,Other activities/sports,4,0,science,a lot,Bus,25,family pro,TXT,524,647,503,610,1000,1000,Health,Relative,6,Y,Y,Y,Y,Y,Bottled wa,26,18,0.452
+Que,M,1,173,173,28,29,160,Right,Y,Y,N,N,N,N,Hockey (Ice),0,0,physical education,some,Skateboard/Scooter/Rollerblade,15,trying to ,In person,428,428,444,599,1000,1000,Arts  culture  sports,Sportsperson,6,Y,Y,Y,N,DNK,Bottled wa,44,16,0.313
+Ont,M,1,153,154,25,26,230,Left,Y,Y,N,N,Y,N,Skateboarding/Rollerblading,1,0,other,very little,Bus,15,insecure,In person,599,775,604,706,1000,1000,Education or Youth development,Relative,4,Y,Y,DNK,Y,Y,OTH,35,16,0.366
+Sask,F,1,173,175,25,26,70,Right,N,N,N,N,Y,N,Other activities/sports,7,0,physical education,none,Walk,4,trying to ,TXT,283,412,738,519,1000,1000,Arts  culture  sports,Sportsperson,5,Y,Y,Y,DNK,Y,Bottled wa,29,14,0.313
+NB,F,2,160,158,23,23,130,Right,Y,Y,N,N,N,N,Dancing,5,0,music,some,Bus,45,trying to ,Myspace  Facebook  blogs,497,203,465,481,1000,1000,Wildlife  animals,Musician or singer,3,N,N,N,Y,N,Tap water,38,14,0.453
+BC,F,1,170,171,26,26,170,Right,Y,Y,N,Y,N,N,Hockey (Ice),2,0,science,some,Car,13,trying to ,In person,396,123,337,5,5,11,Health,Sportsperson,4,N,N,Y,N,Y,OTH,43,15,0.655
+Man,M,1,170,166,26,28,180,Left,N,N,N,N,N,Y,Skateboarding/Rollerblading,7,0,physical education,a lot,Bus,30,trying to ,TXT,503,503,503,727,1000,1000,International aid,Relative,5,Y,N,N,Y,Y,Tap water,31,17,0.375
+BC,F,1,168,163,21,23,160,Right,N,Y,N,N,N,N,Football/Soccer,5,0,physical education,some,Bus,25,just looki,In person,476,43,476,481,11,5,Health,Relative,4,DNK,Y,Y,N,Y,Bottled wa,49,15,0.374
+Sask,F,1,170,177,27,26,170,Right,Y,Y,N,N,N,N,Baseball/Softball,6,0,math,some,Walk,5,family pro,TXT,610,807,497,615,1000,1000,OTH,Relative,3,N,Y,N,Y,DNK,Tap water,37,17,0.555
+Alta,F,1,164,164,22,26,150,Right,Y,Y,Y,N,N,N,Basketball,3,0,physical education,very little,Walk,20,trying to ,TXT,455,540,369,567,604,583,Wildlife  animals,Musician or singer,4,DNK,Y,Y,N,Y,Tap water,30,15,0.329
+Sask,M,3,162,162,23,27,170,Right,N,Y,N,N,N,N,Football/Soccer,4,0,physical education,none,Car,15,just looki,Internet chat or MSN,294,134,225,198,1000,1000,Health,Musician or singer,7,DNK,Y,N,N,Y,Tap water,54,14,0.292
+Alta,F,1,164,166,24,28,155,Left,Y,N,N,N,N,N,Dancing,3,0,science,a lot,Bus,30,insecure,In person,765,663,727,642,305,273,Health,Relative,2,DNK,Y,Y,N,Y,Tap water,40,14,0.437
+BC,M,1,185,194,30,30,170,Right,Y,N,N,N,N,N,Hockey (Ice),7,0,physical education,very little,Bus,30,trying to ,Phone (landline),32,497,214,364,1000,1000,Arts  culture  sports,Sportsperson,4,Y,Y,N,Y,Y,Bottled wa,45,14,0.608
+Que,F,2,170,163,24,27,170,Right,N,Y,N,N,N,N,Dancing,0,0,English,some,Walk,8,trying to ,TXT,679,540,487,465,551,551,Education or Youth development,Musician or singer,4,Y,Y,Y,N,N,Tap water,26,14,0.331
+Que,M,2,174,186,27,27,195,Right,N,N,N,N,N,Y,Dancing,7,25,math,none,Bus,55,insecure,TXT,1000,1000,1000,1000,503,508,Environment,Business person,3,Y,Y,Y,N,Y,Tap water,40,17,0.281
+Ont,F,3,165,168,22,25,190,Right,N,N,N,N,N,Y,Other activities/sports,2,0,art,a lot,Car,5,mean,Cell phone,455,160,246,251,749,904,Health,Actor,5,N,Y,Y,N,Y,Tap water,49,17,0.454
+Ont,F,2,167,165,23,26,150,Right,Y,N,Y,Y,N,N,Running/Jogging,7,0,science,some,Walk,10,mean,TXT,626,706,711,684,508,492,Wildlife  animals,Coach or club leader,4,Y,Y,Y,Y,Y,Tap water,33,14,0.437
+Alta,M,2,163,168,26,27,170,Right,Y,Y,Y,Y,Y,N,Athletics,4,0,physical education,very little,Bus,22,insecure,TXT,1000,1000,1000,1000,893,850,Health,Relative,5,Y,Y,Y,N,Y,OTH,36,14,0.434
+Ont,F,1,164,154,23,24,156,Right,Y,Y,Y,Y,N,N,Hockey (Field),5,0,history,some,Bus,15,trying to ,Cell phone,722,722,722,540,540,674,International aid,Religious figure,4,Y,Y,N,Y,DNK,Bottled wa,29,17,0.373
+Ont,M,1,176,179,29,31,180,Right,Y,N,N,N,N,N,Hockey (Ice),5,0,math,very little,Car,10,family pro,TXT,738,856,802,594,797,989,Health,Sportsperson,3,DNK,DNK,DNK,N,DNK,Tap water,41,14,0.623
+Que,M,2,183,185,27,28,170,Right,Y,N,N,N,N,N,Hockey (Ice),4,0,English,some,Car,10,trying to ,Cell phone,305,460,316,251,882,872,Health,Musician or singer,3,Y,Y,Y,N,Y,Bottled wa,38,16,0.319
+Alta,F,1,156,150,20,22,145,Ambidextrous,Y,N,N,N,N,N,Other activities/sports,2,0,other,a lot,Bus,15,jealous,Myspace  Facebook  blogs,503,647,417,551,1000,1000,Wildlife  animals,Musician or singer,3,N,Y,Y,Y,DNK,OTH,41,15,0.422
+Ont,F,1,162,167,24,23,160,Right,Y,Y,Y,N,N,N,Football/Soccer,2,0,physical education,some,Bus,10,trying to ,TXT,358,652,840,599,396,717,Education or Youth development,Relative,4,Y,Y,Y,N,Y,Tap water,45,14,0.267
+Que,F,2,158,151,22,25,160,Right,Y,Y,Y,N,N,N,Swimming,2,0,English,a lot,Car,8,mean,In person,610,631,626,930,765,1000,Health,Musician or singer,4,Y,Y,Y,N,DNK,Tap water,33,13,0.329
+Ont,M,2,156,161,24,27,170,Ambidextrous,Y,N,N,N,N,N,Rugby League,5,0,math,very little,Walk,10,insecure,TXT,139,123,118,128,1000,1000,International aid,Actor,5,N,N,N,N,N,Tap water,36,14,0.272
+BC,F,1,201,201,22,24,200,Right,N,N,N,N,N,Y,Dancing,3,0,science,some,Bus,70,insecure,Myspace  Facebook  blogs,5,5,11,5,481,1000,OTH,Musician or singer,5,N,Y,N,Y,Y,Bottled wa,67,13,0.359
+Ont,M,2,182,185,32,30,168,Right,Y,Y,Y,Y,Y,N,Running/Jogging,7,0,music,some,Bus,40,insecure,In person,556,706,342,701,134,551,International aid,Musician or singer,4,Y,Y,Y,DNK,Y,OTH,48,18,0.25
+Ont,M,2,172,161,29,28,170,Right,N,N,N,N,N,Y,Football/Soccer,2,0,physical education,some,Car,5,family pro,TXT,1000,556,556,567,273,1000,Arts  culture  sports,Friend,5,DNK,Y,Y,DNK,Y,Bottled wa,44,14,0.671
+Alta,M,1,167,169,25,28,165,Right,Y,Y,Y,Y,N,N,Hockey (Ice),4,0,physical education,a lot,Bus,10,mean,Cell phone,305,439,1000,1000,1000,1000,Wildlife  animals,Sportsperson,4,Y,Y,Y,N,Y,Tap water,47,14,0.325
+Sask,F,1,203,166,24,24,90,Right,Y,N,N,N,N,N,Running/Jogging,3,0,physical education,some,Car,5,bored,TXT,273,476,294,299,401,364,Health,Sportsperson,4,N,Y,Y,N,DNK,Tap water,54,13,0.382
+Ont,M,3,178,181,25,27,130,Left,Y,N,N,N,N,N,Football/Soccer,3,0,other,very little,Bus,25,mean,TXT,893,27,813,973,1000,1000,Health,Sportsperson,4,N,N,N,N,Y,Tap water,35,17,0.313
+BC,F,3,171,152,23,25,140,Right,Y,N,N,N,N,N,Bowling,7,0,science,some,Walk,5,trying to ,Internet chat or MSN,455,455,1000,674,904,936,International aid,Musician or singer,5,N,N,N,N,Y,Bottled wa,46,17,0.453
+Ont,M,1,203,200,31,31,175,Right,N,N,N,N,N,Y,Football/Soccer,5,1,history,some,Car,5,just looki,TXT,144,209,27,75,1000,1000,Environment,Musician or singer,4,N,Y,N,Y,Y,Bottled wa,39,17,0.42
+Alta,M,1,167,175,26,28,194,Ambidextrous,Y,N,N,N,N,N,Walking/Hiking,7,0,physical education,none,Bus,45,family pro,In person,5,5,5,5,5,5,Wildlife  animals,Relative,1,Y,DNK,N,DNK,Y,Tap water,26,15,0.031
+BC,M,1,170,170,31,31,150,Right,Y,N,N,N,N,N,Tennis,2,0,art,some,Car,25,insecure,In person,1000,1000,1000,1000,1000,1000,Health,Sportsperson,4,Y,Y,Y,Y,Y,Tap water,36,14,0.328
+Ont,F,2,152,140,25,25,200,Right,Y,N,N,N,N,N,Dancing,1,0,history,some,Car,5,trying to ,TXT,465,471,471,647,642,647,Health,Teacher,4,Y,Y,Y,Y,Y,Bottled wa,56,15,0.46
+Ont,F,1,153,153,22,24,130,Right,Y,N,N,N,N,N,Walking/Hiking,1,0,math,none,Car,35,trying to ,Myspace  Facebook  blogs,160,91,107,102,198,241,Religious,Religious figure,2,Y,Y,Y,N,Y,Tap water,34,16,0.445
+Ont,M,2,150,151,21,25,150,Right,Y,Y,Y,N,Y,N,Football/Soccer,1,0,physical education,a lot,Bus,15,trying to ,TXT,43,75,364,128,160,1000,Religious,Relative,5,N,Y,DNK,Y,Y,Tap water,48,14,0.455
+Ont,M,2,189,189,30,28,170,Right,Y,Y,N,Y,N,N,None,2,175,English,none,Walk,10,trying to ,In person,1000,1000,1000,1000,471,481,Environment,Politician,4,Y,Y,Y,N,Y,Tap water,45,18,0.417
+Alta,F,1,147,144,19,23,145,Right,Y,Y,Y,N,N,N,Dancing,4,0,math,some,Car,4,insecure,In person,1000,893,1000,925,187,492,International aid,Musician or singer,3,DNK,Y,Y,N,Y,OTH,62,13,0.563
+Ont,M,1,184,186,27,28,165,Right,N,N,N,N,N,Y,Running/Jogging,4,60,other,a lot,Walk,20,just looki,TXT,1000,1000,1000,1000,1000,1000,Wildlife  animals,Musician or singer,5,Y,Y,Y,Y,Y,Bottled wa,61,17,0.25
+NL,F,2,162,150,22,22,165,Right,N,N,N,N,N,Y,Dancing,1,0,English,very little,Bus,15,insecure,TXT,604,503,781,513,1000,1000,Wildlife  animals,Teacher,4,DNK,Y,DNK,N,Y,Tap water,35,14,1.29
+Ont,F,2,169,170,26,28,160,Right,Y,Y,Y,Y,N,N,Gymnastics,3,0,math,a lot,Walk,4,insecure,OTH,845,770,834,829,524,529,Health,Relative,5,DNK,Y,Y,N,Y,Tap water,43,14,0.344
+Alta,M,7,183,185,25,25,175,Right,Y,N,N,N,N,N,Cycling,2,0,physical education,some,Walk,15,family pro,TXT,620,909,5,144,5,43,International aid,Other,4,Y,Y,Y,N,Y,Tap water,47,14,0.638
+Alta,M,3,150,157,25,28,116,Right,Y,N,N,N,N,N,Hockey (Ice),5,0,physical education,a lot,Bus,48,trying to ,In person,21,289,396,176,1000,1000,OTH,Friend,4,N,Y,Y,N,N,Tap water,34,14,0.735
+Ont,M,1,171,171,29,29,170,Right,Y,N,N,N,Y,N,Baseball/Softball,1,0,math,some,Car,5,family pro,Myspace  Facebook  blogs,1000,1000,1000,1000,513,513,Health,Doctor or nurse,7,Y,Y,Y,N,Y,Tap water,52,18,0.313
+Ont,M,1,175,180,29,29,170,Right,Y,Y,Y,N,N,N,Other activities/sports,5,0,science,some,Car,5,jealous,TXT,1000,722,1000,631,840,840,Wildlife  animals,Actor,4,Y,Y,Y,Y,Y,Tap water,44,17,0.281
+Ont,M,1,181,190,30,29,180,Right,N,N,N,Y,N,N,Other activities/sports,6,0,physical education,very little,Bus,20,trying to ,TXT,1000,1000,1000,1000,5,187,OTH,Friend,4,Y,Y,Y,Y,N,Tap water,38,16,0.188
+Alta,F,1,178,200,18,17,100,Right,Y,Y,N,N,N,N,Walking/Hiking,4,0,science,a lot,Bus,25,just looki,In person,422,701,305,695,64,112,Environment,Relative,6,DNK,DNK,DNK,N,Y,Tap water,60,14,0.507
+Ont,M,1,172,182,30,28,80,Right,Y,Y,Y,Y,N,N,Football/Soccer,7,0,math,some,Walk,10,family pro,Cell phone,27,1000,1000,1000,1000,1000,Health,Relative,4,Y,Y,Y,Y,Y,Bottled wa,42,14,0.521
+Sask,F,1,159,153,22,24,170,Right,N,N,N,N,N,Y,Other activities/sports,6,1,art,some,Car,2,insecure,In person,1000,1000,1000,1000,289,556,International aid,Relative,5,Y,Y,Y,N,DNK,Bottled wa,36,15,0.344
+Ont,M,1,180,185,25,28,165,Right,Y,Y,N,N,N,N,Baseball/Softball,1,0,music,very little,Walk,10,trying to ,TXT,861,765,749,829,957,952,Health,Relative,5,DNK,Y,Y,Y,Y,Tap water,25,17,0.353
+Ont,F,1,156,166,26,26,130,Right,Y,Y,N,N,N,N,Swimming,5,0,physical education,some,Walk,15,angry,In person,476,476,594,684,1000,1000,Health,Relative,4,Y,Y,Y,Y,Y,OTH,54,16,0.397
+Ont,F,2,171,165,23,25,200,Right,N,N,N,Y,N,N,Rugby League,3,0,English,very little,Walk,15,angry,TXT,1000,1000,1000,1000,503,503,Education or Youth development,Relative,3,Y,Y,Y,Y,Y,Tap water,41,14,0.781
+Que,M,2,164,180,27,24,160,Right,Y,Y,N,N,N,N,Football/Soccer,4,0,history,very little,Bus,20,insecure,Phone (landline),412,369,267,337,588,765,International aid,Sportsperson,6,DNK,Y,Y,N,N,Tap water,46,14,0.109
+Alta,M,1,165,159,26,24,160,Right,N,Y,N,Y,N,N,Athletics,4,0,math,some,Bus,40,trying to ,TXT,1000,1000,1000,1000,1000,1000,Health,Doctor or nurse,4,Y,Y,Y,N,Y,Tap water,53,14,0.385
+NB,F,2,167,167,24,26,160,Left,Y,Y,Y,N,N,N,Football/Soccer,1,0,science,a lot,Bus,50,trying to ,In person,439,422,209,209,417,428,Health,Relative,4,Y,DNK,N,Y,N,Tap water,39,17,0.393
+Alta,F,4,165,168,23,27,145,Right,Y,Y,N,N,N,N,Swimming,4,0,music,a lot,Bus,30,trying to ,Phone (landline),1000,503,1000,722,273,1000,Wildlife  animals,Other,5,DNK,DNK,DNK,DNK,Y,Tap water,38,14,0.362
+Alta,F,2,163,163,23,26,150,Right,N,Y,N,N,N,N,Running/Jogging,6,0,art,a lot,Bus,20,insecure,Myspace  Facebook  blogs,449,283,647,545,1000,1000,Wildlife  animals,Actor,4,N,Y,Y,Y,Y,Bottled wa,44,14,0.462
+BC,M,1,165,165,23,24,170,Right,Y,Y,N,N,Y,N,Football/Soccer,5,0,math,some,Car,8,mean,In person,1000,497,636,1000,406,406,Wildlife  animals,Relative,3,N,Y,Y,N,DNK,Tap water,25,15,0.312
+Ont,M,1,173,135,35,30,190,Right,Y,Y,N,N,N,N,Other activities/sports,2,0,other,some,Walk,10,insecure,TXT,497,497,508,535,1000,1000,Health,Business person,4,DNK,Y,N,N,Y,Bottled wa,31,16,0.483
+Alta,F,1,155,160,22,26,155,Right,N,Y,Y,N,N,N,Gymnastics,3,0,physical education,some,Bus,30,family pro,In person,963,775,824,642,519,856,Wildlife  animals,Relative,5,Y,Y,Y,Y,Y,OTH,31,14,0.294
+Que,F,3,155,155,24,25,140,Right,N,Y,N,N,N,N,Basketball,2,0,other,some,Car,7,trying to ,Cell phone,652,727,674,626,754,754,International aid,Relative,4,DNK,Y,Y,N,Y,Bottled wa,25,14,0.297
+Sask,F,1,162,166,16,17,150,Right,N,N,N,N,N,Y,Walking/Hiking,1,0,art,very little,Bus,10,family pro,TXT,754,626,578,439,465,471,Wildlife  animals,Other,5,N,Y,Y,N,DNK,Tap water,44,14,0.769
+Ont,F,1,170,168,24,22,155,Right,Y,Y,Y,N,N,N,Athletics,3,0,English,some,Walk,7,insecure,TXT,872,877,594,749,1000,957,International aid,Other,4,Y,Y,Y,N,Y,Tap water,39,14,0.359
+Sask,F,1,160,150,24,24,140,Right,Y,Y,N,N,N,N,Basketball,3,0,physical education,some,Bus,60,family pro,In person,717,775,604,829,861,861,International aid,Relative,5,N,Y,N,DNK,Y,Tap water,36,15,0.36
+Que,F,2,166,161,23,25,150,Right,Y,N,N,N,N,N,Swimming,1,0,history,some,Bus,25,family pro,Cell phone,674,706,802,802,412,412,Arts  culture  sports,Musician or singer,4,N,Y,Y,N,N,Tap water,27,13,0.312
+Ont,F,2,170,175,27,26,140,Right,Y,N,N,Y,N,N,Running/Jogging,0,0,math,a lot,Car,15,insecure,In person,701,914,551,909,754,759,International aid,Actor,4,Y,Y,Y,Y,Y,OTH,29,18,0.448
+Ont,M,2,179,183,26,28,170,Right,N,Y,N,N,N,N,Football/Soccer,3,0,physical education,very little,Bus,10,trying to ,In person,1000,449,567,706,583,781,Environment,Sportsperson,3,Y,Y,Y,Y,Y,OTH,35,17,0.655
+Ont,M,2,160,156,21,24,60,Right,N,N,N,N,N,Y,Basketball,0,0,other,some,Bus,20,trying to ,Myspace  Facebook  blogs,1000,1000,1000,1000,882,775,International aid,Relative,4,Y,Y,Y,Y,DNK,Bottled wa,54,17,0.343
+Ont,M,1,178,177,26,30,180,Right,N,N,Y,N,N,N,Hockey (Ice),4,0,physical education,some,Walk,15,trying to ,TXT,845,230,545,251,930,920,International aid,Sportsperson,5,N,Y,Y,N,Y,Bottled wa,47,19,0.321
+Ont,M,1,183,173,28,31,170,Left,Y,N,N,N,N,N,Basketball,7,0,physical education,a lot,Car,8,jealous,TXT,701,668,444,449,209,652,Wildlife  animals,Sportsperson,3,Y,Y,Y,Y,Y,OTH,34,14,0.406
+Ont,F,1,167,150,24,26,160,Right,N,Y,N,N,N,N,Football/Soccer,3,0,art,some,Walk,15,trying to ,Cell phone,305,449,535,406,1000,1000,Health,Community leader or elder,8,Y,Y,Y,Y,DNK,OTH,47,16,0.422
+Ont,F,2,154,152,25,30,150,Right,Y,N,N,N,N,N,Martial arts,2,0,math,a lot,Car,10,trying to ,TXT,492,358,80,48,70,123,Health,Actor,4,DNK,Y,Y,Y,Y,Bottled wa,36,18,0.405
+Alta,F,1,167,160,22,26,165,Right,Y,N,N,N,N,N,Martial arts,5,0,science,very little,Bus,60,mean,In person,668,663,433,663,487,305,Environment,Relative,4,Y,Y,N,N,Y,Tap water,48,14,0.54
+Ont,M,1,172,172,24,26,220,Right,N,Y,N,Y,N,N,Hockey (Ice),5,0,physical education,a lot,Walk,5,mean,Myspace  Facebook  blogs,476,476,567,556,791,797,Health,Relative,3,Y,Y,Y,Y,Y,Tap water,58,14,0.463
+Ont,F,2,185,170,27,30,170,Right,N,N,Y,N,N,N,Basketball,6,0,English,a lot,Car,8,insecure,TXT,545,417,283,433,529,540,International aid,Musician or singer,3,Y,Y,Y,N,Y,Tap water,48,17,0.343
+Sask,F,1,168,168,22,29,175,Left,N,N,N,N,Y,N,Athletics,5,0,math,some,Walk,5,mean,TXT,406,310,214,369,332,214,Health,Relative,4,Y,Y,Y,N,Y,Bottled wa,29,15,0.418
+Ont,M,2,175,170,26,27,160,Right,Y,N,N,N,N,N,Football/Soccer,2,125,physical education,some,Walk,3,trying to ,In person,775,781,668,925,257,465,Arts  culture  sports,Other,4,N,Y,Y,N,Y,Bottled wa,39,16,0.422
+Ont,M,2,170,168,30,30,190,Ambidextrous,N,Y,N,Y,N,N,Golf,4,5,physical education,a lot,Walk,10,just looki,TXT,21,43,70,385,759,701,International aid,Sportsperson,2,N,Y,Y,Y,Y,Bottled wa,31,17,0.281
+NS,F,2,167,170,24,25,160,Right,Y,Y,N,N,N,N,Basketball,2,0,English,a lot,Bus,20,trying to ,In person,1000,1000,1000,1000,160,203,Environment,Actor,4,Y,Y,Y,Y,Y,Tap water,27,16,0.387
+Ont,M,3,172,174,25,25,155,Right,N,N,N,N,N,Y,Other activities/sports,1,0,science,a lot,Walk,20,family pro,Internet chat or MSN,1000,706,829,663,1000,1000,Education or Youth development,Other,4,N,Y,Y,Y,Y,Tap water,54,19,0.459
+Ont,M,1,172,172,28,30,180,Right,N,N,N,Y,N,N,Baseball/Softball,0,0,English,some,Car,15,just looki,In person,5,5,102,5,1000,1000,Education or Youth development,Friend,4,Y,Y,Y,Y,DNK,Bottled wa,28,17,0.381
+Alta,M,1,168,175,25,25,160,Right,Y,Y,N,Y,N,N,Other activities/sports,4,0,social studies,some,Walk,20,just looki,TXT,251,615,930,91,1000,1000,OTH,Sportsperson,5,N,Y,Y,N,DNK,Tap water,54,14,0.281
+Ont,M,3,167,167,25,28,170,Right,Y,N,N,N,N,N,Athletics,7,0,physical education,a lot,Walk,15,trying to ,In person,53,112,134,369,829,1000,Arts  culture  sports,Sportsperson,5,DNK,DNK,DNK,Y,Y,Bottled wa,41,14,0.328
+Ont,F,1,166,166,26,24,160,Right,N,N,Y,N,N,N,Rugby Union,4,0,physical education,very little,Bus,25,insecure,TXT,904,53,882,893,1000,1000,Health,Teacher,6,Y,Y,Y,Y,Y,Bottled wa,44,16,0.621
+Alta,F,1,126,150,24,25,150,Right,Y,N,N,N,N,N,Basketball,2,0,physical education,a lot,Bus,45,trying to ,TXT,5,5,11,5,561,850,Health,Friend,4,N,Y,DNK,Y,DNK,Tap water,44,14,0.351
+Sask,F,1,170,162,23,25,144,Right,Y,N,N,N,Y,N,Other activities/sports,1,0,English,some,Walk,5,just looki,TXT,439,556,310,337,1000,1000,Health,Friend,3,N,Y,N,N,DNK,Bottled wa,39,15,0.345
+Ont,F,2,154,152,21,25,160,Right,N,N,N,N,N,Y,Rugby League,3,0,English,a lot,Bus,40,trying to ,TXT,91,86,241,358,620,1000,Arts  culture  sports,Relative,5,Y,Y,Y,Y,Y,Bottled wa,67,16,0.473
+Que,F,3,159,150,27,22,125,Right,Y,N,N,N,N,N,Dancing,3,4,history,none,Walk,4,mean,TXT,893,112,112,86,1000,1000,OTH,Relative,3,DNK,DNK,Y,Y,Y,Tap water,51,15,0.464
+Ont,M,2,165,172,28,28,165,Right,Y,Y,Y,Y,N,N,Football/Soccer,5,0,other,a lot,Car,2,family pro,Cell phone,668,647,765,866,1000,1000,Health,Actor,3,DNK,Y,Y,DNK,Y,Bottled wa,36,18,0.389
+Ont,F,1,179,179,22,26,195,Right,Y,Y,N,N,N,N,Hockey (Ice),6,0,science,very little,Bus,10,insecure,In person,1000,556,749,775,251,251,International aid,Sportsperson,3,Y,Y,Y,N,Y,Tap water,26,13,0.327
+Ont,F,2,164,167,25,23,150,Right,N,N,N,N,N,Y,Baseball/Softball,3,0,other,a lot,Bus,20,trying to ,Myspace  Facebook  blogs,1000,1000,1000,1000,1000,1000,Health,Friend,5,N,N,N,N,Y,OTH,46,14,0.309
+Sask,M,1,178,186,26,30,215,Right,Y,Y,N,N,N,N,Hockey (Ice),2,0,physical education,some,Bus,2,mean,In person,150,198,123,251,508,599,Arts  culture  sports,Sportsperson,4,N,N,N,N,Y,Tap water,64,14,0.264
+Ont,M,2,176,172,27,27,160,Right,Y,Y,Y,N,N,N,Football/Soccer,6,0,physical education,some,Bus,34,trying to ,In person,513,513,642,840,487,818,Environment,Musician or singer,5,Y,Y,Y,Y,Y,Tap water,49,14,0.51
+BC,M,1,176,164,25,25,180,Right,N,Y,Y,Y,N,N,Baseball/Softball,0,1,English,very little,Rail (Train  Tram  Subway),1,mean,Phone (landline),374,107,321,599,513,1000,International aid,Relative,5,Y,Y,Y,N,DNK,Tap water,29,15,0.35
+Ont,F,1,159,146,21,20,145,Right,N,N,N,N,N,Y,Hockey (Ice),2,0,science,very little,Car,5,trying to ,In person,524,487,481,487,1000,1000,Health,Doctor or nurse,6,N,Y,Y,N,N,Bottled wa,50,17,0.281
+Ont,F,3,164,158,26,26,175,Right,N,Y,N,N,Y,N,Swimming,2,0,English,some,Bus,13,trying to ,Myspace  Facebook  blogs,1000,1000,1000,1000,497,503,International aid,Other,6,N,Y,Y,Y,Y,Tap water,46,14,0.613
+Alta,M,2,167,173,26,28,153,Left,Y,Y,Y,Y,N,N,Other activities/sports,5,0,math,some,Bus,25,trying to ,Internet chat or MSN,797,925,1000,829,1000,1000,International aid,Other,5,DNK,DNK,Y,Y,Y,OTH,51,13,0.466
+NB,F,2,163,164,23,27,165,Right,Y,N,N,N,N,N,Football/Soccer,1,0,physical education,some,Car,15,jealous,TXT,353,209,422,214,620,620,Health,Relative,4,Y,N,N,N,N,Tap water,35,17,0.385
+Ont,M,1,177,172,28,29,180,Right,N,N,Y,N,N,N,Hockey (Ice),4,100,English,some,Bus,13,just looki,Cell phone,1000,979,1000,1000,5,5,Wildlife  animals,Friend,7,N,Y,Y,N,Y,Bottled wa,34,15,0.36
+Ont,F,1,159,164,23,27,60,Right,Y,Y,Y,N,N,N,Walking/Hiking,3,0,other,very little,Bus,30,insecure,In person,487,481,471,460,107,128,International aid,Relative,10,Y,Y,Y,N,Y,Bottled wa,40,16,0.344
+Ont,M,2,180,182,30,30,100,Left,Y,Y,Y,Y,N,N,Hockey (Ice),5,0,science,very little,Walk,15,family pro,In person,503,599,1000,1000,91,48,Health,Relative,4,Y,Y,Y,Y,N,Tap water,44,14,0.297
+Ont,F,1,163,164,25,23,145,Right,Y,N,Y,N,N,N,Running/Jogging,4,0,social studies,very little,Walk,25,angry,In person,652,508,674,647,690,743,Wildlife  animals,Community leader or elder,6,Y,Y,Y,Y,DNK,Tap water,43,17,0.388
+BC,F,2,169,165,25,24,170,Right,Y,Y,N,N,N,N,Athletics,4,0,physical education,some,Car,5,insecure,In person,850,754,390,390,203,278,Arts  culture  sports,Sportsperson,6,DNK,Y,Y,N,Y,Tap water,34,14,0.376
+Que,F,2,158,157,22,24,140,Right,N,N,N,N,N,Y,Basketball,1,0,other,some,Bus,10,trying to ,Myspace  Facebook  blogs,909,840,743,925,86,37,Health,Musician or singer,4,DNK,Y,Y,N,Y,Tap water,26,13,0.328
+Ont,M,1,185,181,28,30,171,Right,Y,N,N,N,N,N,Other activities/sports,1,0,computers,very little,Walk,4,family pro,OTH,353,551,257,722,920,1000,Education or Youth development,Relative,2,Y,Y,Y,Y,Y,Bottled wa,25,18,0.349
+Ont,F,3,158,166,23,25,145,Right,Y,N,N,N,N,N,Dancing,1,0,other,a lot,Bus,10,insecure,Myspace  Facebook  blogs,610,412,620,631,743,749,Health,Relative,4,N,Y,Y,Y,Y,Tap water,32,17,0.606
+Ont,M,2,180,181,27,28,175,Right,N,N,N,N,N,Y,Other activities/sports,1,100,math,a lot,Car,10,insecure,TXT,118,241,567,856,802,984,Health,Teacher,4,Y,Y,Y,Y,Y,Bottled wa,53,18,0.595
+NB,F,2,163,155,24,26,150,Right,Y,N,N,N,N,N,Other activities/sports,5,0,social studies,very little,Car,15,mean,TXT,615,471,471,476,604,813,International aid,Actor,3,Y,Y,N,N,Y,Tap water,35,17,0.265
+Que,F,2,161,164,24,30,160,Right,N,N,N,N,Y,N,Dancing,1,0,computers,very little,Walk,20,trying to ,TXT,102,134,241,107,1000,1000,Health,Musician or singer,3,DNK,Y,Y,N,DNK,Bottled wa,30,13,0.36
+Ont,M,1,181,181,26,28,160,Right,Y,Y,Y,Y,Y,N,Running/Jogging,4,0,English,very little,Walk,30,just looki,TXT,545,556,604,770,717,717,Health,Friend,4,Y,Y,Y,Y,Y,Tap water,30,18,0.327
+Ont,F,2,153,157,24,24,151,Left,Y,Y,N,N,N,N,Dancing,3,0,French,very little,Walk,15,jealous,Myspace  Facebook  blogs,674,316,513,610,1000,1000,Arts  culture  sports,Relative,4,Y,N,Y,N,Y,OTH,31,14,0.453
+Ont,F,2,157,160,26,26,70,Right,Y,N,N,N,N,N,Dancing,2,0,science,some,Car,10,trying to ,In person,27,21,70,64,91,203,Education or Youth development,Friend,5,Y,Y,Y,DNK,Y,Bottled wa,55,17,0.344
+Ont,M,3,176,161,26,26,173,Right,Y,Y,N,N,N,N,Basketball,0,0,math,some,Bus,10,trying to ,In person,626,647,594,743,230,995,Health,Relative,5,N,Y,Y,N,Y,Tap water,34,17,0.331
+Que,F,2,159,127,20,27,150,Right,Y,N,N,N,N,N,Walking/Hiking,0,0,music,none,Bus,15,insecure,Myspace  Facebook  blogs,503,503,503,503,1000,1000,Health,Musician or singer,7,Y,Y,Y,Y,DNK,Tap water,29,14,0.421
+Sask,M,1,167,172,27,27,170,Right,Y,Y,Y,N,N,N,Hockey (Ice),4,0,math,very little,Car,5,family pro,In person,503,561,626,690,738,786,Arts  culture  sports,Relative,6,N,Y,N,N,Y,OTH,55,15,0.388
+Ont,F,2,130,125,19,23,100,Right,N,N,Y,N,N,N,Dancing,4,0,geography,very little,Car,5,insecure,Cell phone,257,262,267,251,1000,1000,Health,Friend,4,N,Y,Y,N,N,Bottled wa,43,14,0.554
+Ont,M,1,174,167,27,26,175,Right,N,N,N,Y,N,N,Hockey (Ice),4,0,physical education,some,Car,9,trying to ,TXT,396,337,578,422,262,342,Health,Relative,2,Y,Y,Y,N,Y,Bottled wa,56,17,0.331
+Ont,F,2,161,158,23,30,60,Right,Y,N,N,N,N,N,Athletics,3,0,art,some,Car,5,insecure,TXT,508,406,551,615,1000,1000,Wildlife  animals,Friend,4,Y,Y,Y,Y,DNK,Bottled wa,37,14,0.411
+Ont,F,1,163,162,24,27,150,Left,Y,Y,N,N,N,N,Other activities/sports,1,0,science,very little,Walk,5,bored,In person,930,679,717,770,979,930,Wildlife  animals,Relative,4,Y,Y,Y,Y,Y,Tap water,42,14,0.359
+Ont,F,3,159,158,27,27,100,Right,Y,Y,Y,Y,Y,N,Basketball,3,0,math,very little,Car,5,trying to ,Cell phone,663,160,663,187,16,412,Health,Actor,7,Y,Y,Y,Y,N,Tap water,28,14,0.329
+Que,F,2,171,177,26,27,145,Left,Y,N,N,N,N,N,Swimming,1,0,art,very little,Bus,10,family pro,In person,963,925,743,503,877,877,Wildlife  animals,Friend,4,Y,Y,Y,Y,Y,Tap water,34,14,0.344
+Ont,M,1,180,179,27,26,170,Right,Y,N,N,N,N,N,Other activities/sports,4,0,other,very little,Bus,10,insecure,Myspace  Facebook  blogs,32,27,16,11,1000,1000,Health,Sportsperson,5,Y,Y,Y,Y,DNK,OTH,54,17,0.052
+Que,F,1,172,172,24,27,158,Right,Y,Y,Y,N,N,N,Dancing,5,0,math,some,Bus,25,mean,TXT,578,96,102,64,701,701,Health,Relative,3,N,N,N,N,DNK,Tap water,37,14,0.396
+Que,M,2,174,180,24,24,163,Left,Y,Y,N,N,N,N,Martial arts,2,0,math,some,Bus,50,trying to ,In person,513,497,535,267,128,364,International aid,Sportsperson,5,Y,Y,Y,Y,DNK,Tap water,50,14,0.385
+Alta,F,2,156,152,21,26,145,Right,Y,Y,N,N,N,N,None,2,0,computers,very little,Bus,25,trying to ,TXT,428,374,733,647,1000,1000,OTH,Actor,6,Y,Y,Y,Y,Y,Bottled wa,77,15,0.5
+Alta,M,1,150,176,24,24,170,Right,N,N,N,N,N,Y,Hockey (Ice),4,0,math,none,Bus,7,just looki,In person,1000,781,882,626,1000,1000,International aid,Sportsperson,4,DNK,Y,Y,Y,DNK,Tap water,51,13,0.4
+Que,F,3,168,173,26,25,150,Right,Y,Y,Y,N,Y,N,None,5,0,science,some,Skateboard/Scooter/Rollerblade,25,jealous,TXT,979,829,995,1000,663,802,International aid,Sportsperson,4,Y,Y,Y,DNK,Y,Tap water,38,15,0.344
+Sask,M,1,171,171,25,28,195,Left,Y,N,N,N,N,N,Cycling,5,0,other,some,Car,10,trying to ,In person,5,5,5,5,759,759,International aid,Sportsperson,4,N,N,Y,N,N,Tap water,108,14,0.342
+Que,F,4,159,163,22,22,150,Right,Y,Y,Y,Y,Y,N,Basketball,3,0,English,some,Walk,7,trying to ,Myspace  Facebook  blogs,1000,1000,102,1000,1000,1000,OTH,Relative,12,Y,Y,Y,N,DNK,Tap water,27,14,0.609
+Ont,M,1,173,174,26,26,170,Right,Y,Y,N,N,N,N,Hockey (Ice),3,12,physical education,a lot,Car,10,insecure,TXT,513,706,503,508,1000,1000,Health,Sportsperson,4,Y,Y,Y,Y,Y,OTH,41,17,0.261
+Ont,F,1,162,153,24,23,150,Right,Y,N,Y,N,N,N,Hockey (Ice),3,0,physical education,some,Car,5,jealous,TXT,856,524,861,594,96,337,Health,Relative,5,N,Y,Y,N,Y,Tap water,45,17,0.282
+Ont,M,1,187,195,28,29,180,Right,Y,Y,Y,N,N,N,Baseball/Softball,4,30,geography,some,Car,5,trying to ,In person,610,626,754,770,1000,1000,Wildlife  animals,Relative,4,Y,Y,Y,Y,Y,Tap water,40,17,0.297
+Ont,F,1,162,161,28,30,160,Right,Y,N,N,N,N,N,Football/Soccer,7,0,French,a lot,Car,15,jealous,Cell phone,209,481,1000,1000,1000,1000,Health,Relative,4,Y,Y,N,DNK,N,Bottled wa,57,14,0.516
+NL,F,1,163,156,17,22,130,Right,N,N,N,N,N,Y,Skateboarding/Rollerblading,0,0,music,a lot,Car,8,insecure,TXT,1000,1000,1000,503,1000,1000,Wildlife  animals,Relative,5,N,N,N,N,Y,OTH,43,14,0.533
+Ont,M,1,155,150,25,28,180,Right,Y,N,N,N,N,N,Hockey (Ice),3,0,geography,some,Walk,30,jealous,TXT,1000,1000,1000,1000,465,460,Health,Sportsperson,4,N,Y,Y,DNK,Y,Bottled wa,32,13,0.579
+Ont,F,1,158,161,21,24,140,Right,N,Y,N,N,N,N,Football/Soccer,2,0,art,some,Car,6,trying to ,Cell phone,1000,535,1000,1000,706,807,Wildlife  animals,Relative,5,Y,Y,Y,Y,Y,Bottled wa,54,14,0.587
+Man,M,1,185,190,28,29,210,Ambidextrous,Y,N,N,N,N,N,Athletics,6,0,math,some,Car,2,trying to ,In person,139,139,193,257,658,674,Health,Relative,5,Y,N,N,N,Y,Bottled wa,45,16,0.296
+Que,F,3,165,165,24,26,165,Ambidextrous,Y,N,N,N,N,N,Swimming,3,1,science,a lot,Bus,30,jealous,Phone (landline),278,257,412,123,1000,759,Health,Relative,5,N,N,Y,N,N,Bottled wa,36,14,0.438
+Ont,F,2,174,173,27,26,147,Ambidextrous,Y,Y,N,Y,Y,N,Other activities/sports,1,0,math,a lot,Walk,10,trying to ,Myspace  Facebook  blogs,722,781,840,690,1000,1000,Wildlife  animals,Actor,5,N,N,N,N,Y,Bottled wa,36,16,0.555
+Que,F,2,167,158,24,28,160,Right,N,N,Y,N,N,N,Dancing,3,0,French,a lot,Bus,45,mean,In person,1000,561,1000,658,449,439,Health,Actor,5,Y,Y,Y,N,DNK,Tap water,41,15,0.438
+Que,F,2,153,154,24,26,155,Right,Y,N,N,N,N,N,Swimming,0,0,art,some,Bus,20,trying to ,Myspace  Facebook  blogs,620,620,620,620,32,37,International aid,Relative,2,Y,Y,Y,N,Y,Tap water,41,16,0.375
+Ont,M,2,163,158,25,21,160,Left,Y,Y,N,N,N,N,Other activities/sports,4,0,physical education,some,Cycle,8,insecure,In person,503,1000,1000,513,487,519,Education or Youth development,Relative,4,Y,Y,Y,Y,DNK,Tap water,42,19,0.391
+Ont,F,1,157,157,24,26,151,Right,Y,N,Y,N,N,N,Golf,4,0,other,some,Bus,60,mean,In person,364,230,342,791,786,920,Arts  culture  sports,Musician or singer,5,DNK,Y,Y,Y,Y,Bottled wa,41,14,0.326
+Que,M,2,160,158,25,23,150,Right,Y,Y,Y,N,N,N,Football/Soccer,5,0,other,very little,Bus,10,family pro,In person,214,235,235,230,995,1000,OTH,Sportsperson,4,Y,Y,DNK,N,Y,Tap water,39,15,0.3
+Alta,M,1,159,153,25,20,170,Right,Y,N,N,N,N,N,Baseball/Softball,7,0,math,none,Car,7,just looki,TXT,422,422,422,422,422,1000,Wildlife  animals,Sportsperson,4,Y,Y,Y,Y,DNK,Tap water,27,14,0.507
+Ont,M,1,191,183,24,31,180,Right,N,N,N,N,N,Y,Hockey (Ice),6,0,music,none,Car,2,family pro,In person,1000,1000,1000,1000,150,150,Health,Sportsperson,5,Y,Y,Y,N,Y,Bottled wa,37,16,0.5
+Sask,F,1,166,166,27,27,155,Right,Y,N,N,N,N,N,Dancing,3,0,art,a lot,Walk,3,insecure,TXT,369,369,369,369,160,160,Wildlife  animals,Relative,3,Y,Y,N,N,Y,Tap water,31,14,1.136
+Ont,M,2,175,180,26,30,190,Right,Y,N,N,N,N,N,Basketball,1,0,other,a lot,Car,10,just looki,In person,449,455,460,16,16,21,Health,Other,5,DNK,DNK,DNK,DNK,Y,Tap water,31,18,0.313
+NB,F,2,168,172,26,30,161,Right,N,N,N,N,N,Y,Dancing,4,0,history,some,Car,8,insecure,TXT,631,417,759,882,401,807,Health,Friend,6,Y,N,Y,Y,Y,Tap water,217,14,0.415
+Que,M,1,160,143,23,24,150,Right,Y,N,N,N,N,N,None,1,0,science,very little,Bus,40,mean,TXT,433,150,1000,374,1000,1000,International aid,Actor,7,DNK,Y,DNK,N,N,Tap water,33,16,0.575
+PEI,F,1,140,140,22,25,150,Right,Y,N,N,N,N,N,Swimming,2,0,science,a lot,Bus,40,mean,In person,631,615,727,1000,1000,1000,Health,Musician or singer,4,Y,Y,Y,Y,Y,Tap water,38,16,0.531
+BC,M,3,170,160,24,24,170,Left,Y,Y,N,N,N,N,Football/Soccer,4,13,other,some,Bus,30,trying to ,OTH,503,310,358,465,214,797,OTH,Relative,5,DNK,DNK,Y,Y,Y,Tap water,51,14,0.471
+Ont,M,2,171,170,26,27,160,Right,Y,Y,N,N,Y,N,Hockey (Ice),4,0,physical education,very little,Car,5,trying to ,In person,850,679,898,620,930,930,Environment,Musician or singer,4,Y,Y,Y,Y,Y,Tap water,58,17,0.406
+Que,F,2,159,170,23,22,150,Left,N,Y,N,N,Y,N,None,5,0,math,some,Walk,14,trying to ,TXT,321,193,43,5,909,829,Health,Musician or singer,4,Y,Y,Y,N,Y,Bottled wa,46,14,0.515
+Sask,M,1,128,157,23,23,170,Ambidextrous,N,Y,N,N,N,N,None,3,4,physical education,very little,Car,3,jealous,TXT,781,524,636,711,1000,1000,Education or Youth development,Sportsperson,4,N,Y,N,DNK,Y,Tap water,110,14,0.543
+Ont,F,1,171,175,25,27,167,Right,Y,N,N,N,N,N,Hockey (Ice),5,0,physical education,a lot,Car,4,insecure,TXT,626,711,866,706,979,973,International aid,Teacher,4,Y,Y,Y,Y,Y,Tap water,38,17,0.312
+Ont,M,1,171,169,26,29,170,Right,Y,Y,N,N,N,N,Martial arts,4,0,geography,a lot,Bus,45,trying to ,In person,668,898,332,786,171,283,Health,Friend,5,Y,Y,Y,DNK,DNK,Tap water,56,14,0.343
+Ont,F,1,159,152,22,25,165,Right,N,Y,Y,N,N,N,Hockey (Ice),5,0,history,some,Bus,15,insecure,In person,904,791,797,588,898,594,Health,Teacher,3,Y,Y,Y,Y,N,Tap water,28,17,0.336
+Que,M,2,190,187,28,31,170,Right,Y,Y,N,N,N,N,Basketball,3,0,history,none,Walk,15,trying to ,Myspace  Facebook  blogs,481,364,70,5,743,1000,International aid,Other,4,Y,Y,Y,N,N,Tap water,43,15,0.346
+Que,F,1,165,163,23,25,150,Right,Y,Y,N,Y,N,N,Gymnastics,0,0,music,very little,Bus,60,trying to ,In person,267,278,444,193,658,877,Wildlife  animals,Actor,3,DNK,Y,DNK,DNK,DNK,Tap water,31,14,0.413
+Ont,F,1,160,165,26,29,140,Right,Y,N,N,N,N,N,Other activities/sports,2,0,art,a lot,Bus,20,trying to ,TXT,631,684,807,476,551,904,International aid,Relative,4,DNK,Y,Y,N,Y,Tap water,43,14,0.57
+Ont,M,1,168,164,24,24,150,Right,Y,Y,N,Y,N,N,Other activities/sports,3,0,other,none,Car,15,mean,In person,722,1000,647,882,1000,1000,Education or Youth development,Other,5,Y,Y,Y,Y,Y,Tap water,42,16,0.359
+Ont,F,2,190,160,22,22,146,Right,N,N,N,N,N,Y,Other activities/sports,2,0,English,a lot,Bus,5,jealous,Internet chat or MSN,914,914,1000,1000,845,834,Wildlife  animals,Musician or singer,6,DNK,Y,Y,Y,Y,Tap water,39,14,0.38
+Alta,M,1,158,159,24,24,160,Right,Y,N,N,N,N,N,Skateboarding/Rollerblading,5,0,art,some,Car,1,just looki,Cell phone,5,5,5,5,5,5,Arts  culture  sports,Sportsperson,3,N,N,N,N,DNK,Tap water,62,14,0.586
+BC,M,1,179,150,28,33,160,Ambidextrous,N,N,N,N,N,Y,Skateboarding/Rollerblading,6,0,art,very little,Skateboard/Scooter/Rollerblade,30,trying to ,TXT,283,647,492,754,1000,1000,Arts  culture  sports,Musician or singer,5,Y,DNK,Y,Y,DNK,Bottled wa,63,17,0.501
+Ont,F,1,152,147,25,26,160,Right,Y,N,N,N,N,N,Athletics,2,0,English,some,Car,10,just looki,Cell phone,380,690,1000,332,1000,1000,Health,Actor,3,DNK,Y,Y,Y,DNK,Bottled wa,57,14,0.313
+Ont,F,1,158,162,25,24,188,Right,Y,Y,Y,N,N,N,Other activities/sports,3,0,social studies,a lot,Car,5,insecure,In person,16,27,37,86,150,310,Education or Youth development,Relative,4,Y,Y,Y,Y,Y,Bottled wa,48,17,0.328
+Ont,F,2,175,152,27,27,250,Right,Y,N,N,N,N,N,Swimming,2,0,art,some,Bus,20,jealous,In person,503,652,781,877,1000,1000,International aid,Other,6,Y,Y,DNK,N,N,Tap water,31,16,0.305
+Ont,M,2,154,157,26,26,150,Right,Y,Y,Y,Y,N,N,Swimming,7,0,science,very little,Bus,10,insecure,In person,626,1000,717,733,599,834,International aid,Coach or club leader,4,Y,Y,Y,Y,Y,Tap water,53,14,0.392
+Ont,M,2,180,188,28,32,180,Right,Y,Y,Y,Y,N,N,Football/Soccer,5,0,science,some,Car,15,insecure,Cell phone,797,652,829,754,508,535,Arts  culture  sports,Relative,4,Y,Y,Y,Y,Y,OTH,43,17,0.372
+Ont,M,1,187,182,27,31,175,Right,Y,Y,N,N,N,N,Martial arts,2,0,history,some,Bus,40,trying to ,In person,914,1000,979,904,754,668,Arts  culture  sports,Relative,5,Y,Y,Y,N,Y,Tap water,37,17,0.406
+Ont,M,5,177,172,26,30,180,Left,Y,Y,Y,N,Y,N,Basketball,2,0,English,some,Bus,10,family pro,Internet chat or MSN,144,155,604,567,150,198,Education or Youth development,Musician or singer,4,DNK,Y,Y,Y,Y,Bottled wa,54,14,0.448
